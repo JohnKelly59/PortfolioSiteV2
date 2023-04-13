@@ -42,11 +42,11 @@
     "fightScenes" : {
         "title": "FightScenes",
         "subheader": "Personal Project",
-        "image": "/images/fightScenes.png",
+        "image": "/images/fs.png",
         "dropdown": "I am a huge nerd and I love super hero movies. What makes superhero movies so interesting is the action scenes and the fight scenes. This website connects to YouTube through Google's API to get a playlist of fight scenes that the actor has featured in.",
         "tools": "React, HTML, CSS, JavaScript, Redux, RestAPIs, AWS, YouTube, API",
         "button": "Visit Site",
-        "url": "https://www.jkportfolio.club/static/media/fightScenes.32cadbc3.png",
+        "url": "https://main.d2mol8r4nevcxg.amplifyapp.com/",
         "code": "https://github.com/JohnKelly59/FightScenes"
     },
     "santaList" : {
