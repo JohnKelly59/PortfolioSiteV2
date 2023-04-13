@@ -81,7 +81,7 @@ export default function Contact(props) {
           <Box
             component="form"
             sx={{
-              "& > :not(style)": { m: 6, width: "85ch", height: "750px" },
+              "& > :not(style)": { m: 6, width: "85ch", height: "650px" },
             }}
             noValidate
             autoComplete="off"
@@ -93,7 +93,7 @@ export default function Contact(props) {
           >
             <Paper sx={{ m: 5, p: 5 }} elevation={3}>
               <Stack
-                sx={{ m: 5 }}
+                sx={{ m: 2 }}
                 direction={"column"}
                 spacing={5}
                 textAlign="center"
