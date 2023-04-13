@@ -1,0 +1,102 @@
+{
+    "workoutMonster": {
+        "title": "Workout Monster",
+        "subheader": "Personal Project",
+        "image": "/images/apppic.png",
+        "dropdown": "Workout Monster is an app made for the average person who gym-goer. With its simplistic design and feel, this app will not only make setting up your workouts easier, but help you keep track of your rest time, favorite exercises, workout duration, and more!\nKey Features:\n-Workout Manager (Keep track of what Set you are on, how much rest time you have, and how long you have been working out)\n-Partners (Become workout partners with friends or with strangers across the globe. Share workouts, and help each other with reaching fitness goals.)\n-Randomizer (A page to generate random exercises and workouts based on what your target for that day is.)\n-Favorites (Save your favorite exercises and workouts so you can never lose them)\n-Logging (Jot down some notes or log what you did during your workout session and save it to your account.)\n-Search (Search through 1000+ exercises that you might want to incorporate into your workout routine)\nDownload this free app now and enhance your fitness journey!!!",
+        "tools": "React Native, Expo, JavaScript, Node.js, API, MongoDB, NoSQL, AWS (Elastic Beanstalk, CodePipeline)",
+        "site": "Download App",
+        "url" : "https://apps.apple.com/us/app/workout-monster/id1634358262",
+        "code": "https://github.com/JohnKelly59/WorkoutMobile"
+    },
+    "idealTherapy" : {
+        "title": "Ideal Therapy",
+        "subheader": "Client Project",
+        "image": "/images/idealTherapySite.png",
+        "dropdown": "Ideal Therapy, LLC has been offering high quality therapy services since 2008. We provide Occupational, Speech, Physical and Massage Therapy services. Some services are rendered in Homes, Schools, Rehabilitative Facilities, Nursing Homes, Our Patient Facilities, and other institutions. We have provided superior service to our clients and have assisted them in achieving their goals.",
+        "tools": "Next.js, HTML, CSS, JavaScript, Node.js, AWS(elasticbeanstalk, codepipeline)",
+        "button": "Visit Site",
+        "url": "https://www.idealtherapy.net/",
+        "code": "https://github.com/JohnKelly59/ITSite"
+    },
+    "monsterWorkout" : {
+        "title": "Monster Workout",
+        "subheader": "Personal Project",
+        "image": "/images/MonsterWorkout.png",
+        "dropdown": "Ideal Therapy, LLC has been offering high quality therapy services since 2008. We provide Occupational, Speech, Physical and Massage Therapy services. Some services are rendered in Homes, Schools, Rehabilitative Facilities, Nursing Homes, Our Patient Facilities, and other institutions. We have provided superior service to our clients and have assisted them in achieving their goals.",
+        "tools": "Next.js, HTML, CSS, JavaScript, Node.js, AWS(elasticbeanstalk, codepipeline)",
+        "button": "Visit Site",
+        "url": "http://workoutapp-env.eba-5vn3jgdm.us-east-2.elasticbeanstalk.com/",
+        "code": "https://github.com/JohnKelly59/MonsterWorkout"
+    },
+    "ecoRate" : {
+        "title": "EcoRate",
+        "subheader": "Personal Project",
+        "image": "/images/ecorate.png",
+        "dropdown": "EcoRate is a web application that allows users to rate different locations based on the cleanliness of their surrounding area, the access to recycing bin and other recycling opportunities, the use of reusable material, the establihments traffic, and the amount of flaura surrounding the the area. The goal of this web application is to encourage companiws to adapt more substainable practices. This app uses Google Maps' API to render the map, along with a database to save ratings and retrieve previous ratings. the ratings are then rendered on the client side which is built with react and redux for state control.",
+        "tools": "HTML, CSS, JavaScript, Node.js, React.js/Redux, API, MongoDB Atlas, AWS(elasticbeanstalk, codepipeline)",
+        "button": "Visit Site",
+        "url": "http://ecorate-env.eba-mk2mgked.us-east-2.elasticbeanstalk.com/",
+        "code": "https://github.com/JohnKelly59/EcoRate"
+    },
+    "fightScenes" : {
+        "title": "FightScenes",
+        "subheader": "Personal Project",
+        "image": "/images/fightScenes.png",
+        "dropdown": "I am a huge nerd and I love super hero movies. What makes superhero movies so interesting is the action scenes and the fight scenes. This website connects to YouTube through Google's API to get a playlist of fight scenes that the actor has featured in.",
+        "tools": "React, HTML, CSS, JavaScript, Redux, RestAPIs, AWS, YouTube, API",
+        "button": "Visit Site",
+        "url": "https://www.jkportfolio.club/static/media/fightScenes.32cadbc3.png",
+        "code": "https://github.com/JohnKelly59/FightScenes"
+    },
+    "santaList" : {
+        "title": "Santa's List",
+        "subheader": "Personal Project",
+        "image": "/images/santa.png",
+        "dropdown": "This react app allows parents to receive Christmas lists, with associated Amazon links to each gift, directly from their children via email. The user adds to their 'Santa List' by inputting the name of the gift under “title” and its description(optional) where stated. After the user is finished with their list, they will put in the desired email address to whom they want to send the list to. The email will contain the title, description, and amazon link to each gift. This app brings a whole new meaning to convenience for parents/guardians who want to get a head start on shopping for the Holiday Season. Happy Holidays and Enjoy!",
+        "tools": "React.js, HTML, CSS, JavaScript, APIs, AWS",
+        "button": "Visit Site",
+        "url": "https://main.d39ra7xx8jfbvf.amplifyapp.com/",
+        "code": "https://github.com/JohnKelly59/WriteToSanta"
+    },
+    "jMessage" : {
+        "title": "jMessage",
+        "subheader": "Personal Project",
+        "image": "/images/jmessage.png",
+        "dropdown": "jMessage is a web application that allows you to message your friends and stay connected with people that you meet. Each user has a unique username and password that allows them to log in and chat with their peers. Users can send messages, gifs, pictures. Message threads can have unique styles as well. Users can change a thread's avatar and chat names, edit the font and style of their text, and more.",
+        "tools": "React, HTML, CSS, JavaScript, Node.js, RestAPIs, AWS, EJS",
+        "button": "Visit Site",
+        "url": "http://jmessager-env.eba-pimydv3b.us-east-2.elasticbeanstalk.com/",
+        "code": "https://github.com/JohnKelly59/jMessage"
+    },
+    "gameHub" : {
+        "title": "GameHub",
+        "subheader": "Personal Project",
+        "image": "/images/game.png",
+        "dropdown": "This web app host 4 games including, a simon game, a drum kit, tic tac toe, and dice roller. along with the games, this web application has a home page that has view previews to every game, links to my github, linked in and other media platforms, and a quick description of who I am. GameHub is also connected to my MailChimp subscription through an API that allows the user to be added to my subscriber list. The subscribers will be notified via email of new games that are uploaded to GameHub.",
+        "tools": "HTML, CSS, JavaScript, Node.js, APIs, AWS",
+        "button": "Visit Site",
+        "url": "http://node-env.eba-canptspm.us-east-2.elasticbeanstalk.com/",
+        "code": "https://github.com/JohnKelly59/gamehub"
+    },
+    "timeCalculator" : {
+        "title": "Time Calculator",
+        "subheader": "Personal Project",
+        "image": "/images/time.png",
+        "dropdown": "Physical, Occupational, and Speech therapist are all required to report the time they spent treating their patients. This time calculator has a simplistic design that therapist can use to calculate their treatment time with each patient with ease and minimum hassle.",
+        "tools": "HTML, CSS, JavaScript",
+        "button": "Visit Site",
+        "url": "https://johnkelly59.github.io/",
+        "code": "https://github.com/JohnKelly59/timeCalculator"
+    },
+    "jobLogger" : {
+        "title": "JobLogger",
+        "subheader": "Personal Project",
+        "image": "/images/job.png",
+        "dropdown": "Searching for jobs is hard. Keeping up with all of the jobs you have applied for can be even harder. The jobLogger app helps you track all of the jobs that you have applied for; along with important details about the job. The app takes the client's input about their job (company name, title, salary, level of interest, etc), saves all of it in a MySQL database, and displays it on the home page. The user is able to add comments, add job entries to an archive list, delete entries, and more. This app also has user authentication so all of your information is safe and secured.",
+        "tools": "HTML, CSS, JavaScript, Node.js, Passport.js, MySQL, AWS(deployment)",
+        "button": "Visit Site",
+        "url": "https://github.com/JohnKelly59/jobLogger",
+        "code": "https://github.com/JohnKelly59/timeCalculator"
+    }
+}
