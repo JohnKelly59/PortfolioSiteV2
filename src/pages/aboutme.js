@@ -11,6 +11,7 @@ export default function AboutMe() {
     paddingTop: "100px",
     backgroundColor: "#FEEB75",
     paddingBottom: 40,
+    overflowY: "auto"
   };
 
   return (

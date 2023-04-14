@@ -25,6 +25,7 @@ export default function Contact(props) {
     paddingTop: "100px",
     backgroundColor: "#FF8283",
     paddingBottom: 40,
+    overflowY: "auto"
   };
 
   const handleClose = (event, reason) => {
@@ -81,7 +82,7 @@ export default function Contact(props) {
           <Box
             component="form"
             sx={{
-              "& > :not(style)": { m: 6, width: "85ch", height: "650px" },
+              "& > :not(style)": { p: 3, m: 6, width: "85ch", height: "650px" },
             }}
             noValidate
             autoComplete="off"
@@ -91,7 +92,7 @@ export default function Contact(props) {
             alignItems="center"
             onSubmit={(e) => handleSubmit(e)}
           >
-            <Paper sx={{ m: 5, p: 5 }} elevation={3}>
+            <Paper sx={{ m: 15, p: 5 }} elevation={3}>
               <Stack
                 sx={{ m: 2 }}
                 direction={"column"}
