@@ -81,22 +81,21 @@ export default function Skills() {
   const contentStyles = {
     justifyContent: "center",
     alignItems: "center",
-    height: "100vh",
     paddingTop: "100px",
     backgroundColor: "#A0EC70",
     paddingBottom: 40,
-  };
+};
 
-  const SkillsList = () => {
+const SkillsList = () => {
     return (
       <List
         sx={{
           width: "100%",
           maxWidth: 360,
+          maxHeight: 500,
           bgcolor: "background.paper",
           position: "relative",
           overflow: "auto",
-          maxHeight: 500,
           "& ul": { padding: 0 },
         }}
       >
@@ -112,9 +111,9 @@ export default function Skills() {
         ))}
       </List>
     );
-  };
+};
 
-  return (
+return (
     <>
       <Box style={contentStyles}>
         <Typography variant="h1" align="center" color="#5BC5FF">

@@ -21,12 +21,11 @@ export default function Contact(props) {
     message: "",
   });
   const contentStyles = {
-    height: "100vh",
     paddingTop: "100px",
     backgroundColor: "#FF8283",
     paddingBottom: 40,
     overflowY: "auto"
-  };
+};
 
   const handleClose = (event, reason) => {
     if (reason === "clickaway") {

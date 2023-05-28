@@ -7,11 +7,10 @@ import Zoom from "@mui/material/Zoom";
 
 export default function AboutMe() {
   const contentStyles = {
-    height: "100vh",
     paddingTop: "100px",
     backgroundColor: "#FEEB75",
     paddingBottom: 40,
-    overflowY: "auto"
+    overflowY: "auto",
   };
 
   return (
@@ -23,40 +22,33 @@ export default function AboutMe() {
         <Zoom in={true} timeout={800}>
           <Container maxWidth="lg">
             <Paper elevation={10} style={{ padding: "2rem" }}>
-              <Typography variant="h5" align="center">
-                <p>
-                  "My name is John Kelly, and I am a full stack developer. I
-                  began coding during my Senior year of college. One day after
-                  football practice, my fraternity brother and I had a serious
-                  conversation. The conversation ended with me realizing that I
-                  had a choice of either going to graduate school and continuing
-                  a profession that I was not passionate about or developing a
-                  new skill that I have been interested in for years. Needless
-                  to say, I picked the latter and I’m so glad that I did.
-                </p>
-                <p>
-                  Since I graduated college, I have been learning and
-                  programming every day. My journey as a programmer began with
-                  me pursuing Harvard’s CS50x certificate. After completing
-                  Harvard’s 11-week course, I began and completed the App
-                  Brewer’s full-stack web development course. Since then, I have
-                  continued to learn a lot more about web development through
-                  the cultivation of various projects and applications.{" "}
-                </p>
-                <p>
-                  I love to code. My day is not successful until I learn
-                  something new about programming or implement a new technology
-                  into a solution. I like to compare programming to playing a
-                  video game, Pacman to be specific. For example, each day I
-                  learn something new or implement a new technology, I equate it
-                  to the feeling of eating a power pellet in Pac-Man and
-                  levelling up in the game. That determination and excitement to
-                  continue to level up by deepening my understanding and
-                  perfecting my craft really fuels my passion for programming
-                  even more. I am eager and excited to enhance my knowledge and
-                  strive towards becoming the best engineer I can be."
-                </p>
-              </Typography>
+            <Typography variant="h4" gutterBottom>
+    "Hello! I'm John Kelly, a full-stack developer who's been in love with coding ever since I wrote my first JavaScript function. The magic of turning coffee into code and solving complex problems through technology keeps me hooked every day."
+</Typography>
+<Typography variant="h5" gutterBottom color="textSecondary">
+    My Journey
+</Typography>
+<Typography variant="body1" paragraph>
+    "I started my journey into the tech world right out of college, joining Cabem, Real Synch, and Ideal Therapy. These diverse roles helped me nurture my skills in various programming languages and tech stacks while also teaching me the value of teamwork, innovation, and precision."
+</Typography>
+<Typography variant="h5" gutterBottom color="textSecondary">
+    My Toolbox
+</Typography>
+<Typography variant="body1" paragraph>
+    "I've always believed that a great developer is not just about the number of languages they can code in, but how effectively they can solve problems. I consider myself lucky to have had the opportunity to work with a wide array of tools from JavaScript, Python, Node.js to cloud services like AWS, giving me the versatility to approach any problem from multiple angles."
+</Typography>
+<Typography variant="h5" gutterBottom color="textSecondary">
+    My Passion
+</Typography>
+<Typography variant="body1" paragraph>
+    "One thing I truly value is the opportunity to continue learning and improving. The tech world is ever-evolving, and every new project brings a new challenge and a chance to learn something new. I am committed to bringing enthusiasm, dedication, and a relentless pursuit of excellence to every project I work on."
+</Typography>
+<Typography variant="h5" gutterBottom color="textSecondary">
+    My Vision
+</Typography>
+<Typography variant="body1">
+    "As a developer, my main goal is to create robust, efficient, and scalable applications that not only fulfill the client's needs but go beyond to exceed their expectations. I want to make technology more accessible, user-friendly, and efficient - one line of code at a time."
+</Typography>
             </Paper>
           </Container>
         </Zoom>
